@@ -1,3 +1,39 @@
+CELENG.IN
+
+Calendar based, simple income-outcome log
+Target savings and recommendation
+Reminder to save, can be customized
+Monetization: ads & item recommendation
+
+Target user: Under 17 yo.
+
+
+APP SKELETON (Desktop/Mobile)
+
+# Home
+About (Features, Howto)
+Signup
+Login
+
+# Dashboard
+User Profile (link/nav)
+Calendar View (like Google Cal, but income/outcome instead of events)
+Sidebar:
+Balance
+This (week/month) target savings
+
+# Target Savings (Wishlist)
+Target Item
+Name
+Price
+Photo
+URL
+DEADLINE
+Share Target to Other User (?)
+By email/username
+
+
+
 List Dasar
 ======================
 Base view
