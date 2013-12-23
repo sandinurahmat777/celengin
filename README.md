@@ -14,26 +14,37 @@ Model
 ==> User
     email
     password
-    photo_id => polimorphis
+    photo
     alamat
-    saldo balance
+    tabungan
+    total_tabungan
 
 ==> History
     User_id
-    TaskTarget_id
-    Amount
-    Debit, integer, default = 0
-    Credit, integer, default = 0
+    income
+    outcome
+    Description
     Date
-    
+    TargetSaving_id
+
 ==> TargetSaving
-    Name
+    Item
     Description
     Url
-    photo_id => polimorphis
+    amount_target
+    price
+    deadline 
+    --tampil harian / "mingguan" / bulanan
 
-==> photo
-    ini polimorphis
+
+
+???===Kemungkinan Gak Usah
+==> HistoryTarget
+    User_id
+    TargetSaving_id
+    amount
+    Date
+???===Kemungkinan Gak Usah
 
 
 Target maksimal
