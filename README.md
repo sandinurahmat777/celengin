@@ -1,3 +1,14 @@
+List Dasar
+======================
+Base view
+        Menyiapkan Page
+Base model
+        Menyiapkan Integritas Sesama Model
+Base Controler
+        Membangun Route
+        Menyiapkan model yang akan di oper ke model
+----------------------
+
 Model
 
 ==> User
